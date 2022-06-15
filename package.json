@@ -1,0 +1,31 @@
+{
+  "name": "kahve-bot",
+  "version": "3.0.0",
+  "description": "Mustafa Demirtra v13 Kahve bot Remake!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mustafa Demirtra",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.6.0",
+    "figlet": "^1.5.2",
+    "flip-text": "^1.2.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3",
+    "coffeedb": "^0.1.7",
+    "giphy-api": "^2.0.2",
+    "moment": "^2.29.3",
+    "cowsay": "^1.5.0",
+    "jimp": "^0.16.1",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
